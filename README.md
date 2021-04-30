@@ -1,5 +1,7 @@
 # Awesome Secret List :shushing_face: 𝕊
 
+:warning: This repo moved to [SecretFoundation/awesome-secret](https://github.com/SecretFoundation/awesome-secret) :warning:
+
 This is a list of great [Secret Network](https://scrt.network) related projects, tools, games, and more!
 
 Feel free to suggest changes as discussions, issues, or PRs :sparkles:
